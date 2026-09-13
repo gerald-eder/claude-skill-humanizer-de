@@ -1,5 +1,8 @@
 # humanizer-de
 
+> [!WARNING]
+> **Archivierter Legacy-Stand.** Dieses Repository wird nicht mehr gepflegt und ist nicht die Quelle des aktuell verwendeten Humanizer-Skills in Gerald Eders Claude-/Hermes-Setup. Es bleibt ausschließlich erhalten, damit bestehende Links und frühere Installationen nachvollziehbar bleiben. Nicht für neue Installationen verwenden.
+
 Claude Code Skill, der KI-typische Schreibmuster in **deutschen Texten** erkennt und entfernt. Ziel: Texte, die nach einem Menschen klingen — nicht nach ChatGPT.
 
 Basiert auf Wikipedias "Anzeichen für KI-generierte Inhalte" und deutschen Stilquellen. Erkennt 28 Muster: aufgeblasene Symbolik, Werbesprache, KI-Vokabular, Füllphrasen, Chatbot-Artefakte, Gedankenstrich-Inflation, Dreierregel und mehr.
